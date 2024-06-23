@@ -7,6 +7,7 @@ That's why we have used Naive bayes technique to predict the Loan eligibility pr
 "https://starboi-rushi.github.io/Rushikesh_bhamare.portfolio/"
 ### Github_Link
 "https://github.com/Starboi-Rushi"
+
 ###Linkdin_Link
 "https://www.linkedin.com/in/rushikesh-bhamare-30620021b/"
 
