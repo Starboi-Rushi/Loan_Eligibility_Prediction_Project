@@ -1,20 +1,14 @@
-# Import all necessary libraries and modules
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
+# I have used 2 types of classification techniques in these project 
+1. Decision Trees
+2. Naive bayes
+The Accuracy of Decision tree is 72.35% & The Accuracy of Naive bayes is 82.95% i.e. 83% approx.
+That's why we have used Naive bayes technique to predict the Loan eligibility prediction in test case
+### Portfolio_Link
+"https://starboi-rushi.github.io/Rushikesh_bhamare.portfolio/"
+### Github_Link
+"https://github.com/Starboi-Rushi"
+###Linkdin_Link
+"https://www.linkedin.com/in/rushikesh-bhamare-30620021b/"
 
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
-from sklearn.metrics import classification_report, confusion_mal_score
-from sklearn.model_selection import GridSearchCV
-from sklearn.preprocessing import StandardScaler, LabelEncoderatrix
-from sklearn.model_selection import train_test_split, cross_v
-from sklearn.svm import SVC
 
-from imblearn.over_sampling import RandomOverSampler
 
-import warnings
-warnings.filterwarnings('ignore')
-warnings.simplefilter('ignore')
